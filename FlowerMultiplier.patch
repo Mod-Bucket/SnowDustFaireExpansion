@@ -1,0 +1,19 @@
+{
+    "file": "staxel/festivals/SnowdustFaire.festival",
+    "priority": 2,
+    "fileCheck": true, 
+    "mergeLists": true, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+  "hosts": [
+    {
+      "name": "Visitor1",
+      "code": "mods.mb.SnowDustFaireExpansion.character.festival.Visitor1"
+    },
+    {
+      "name": "Visitor2",
+      "code": "mods.mb.SnowDustFaireExpansion.character.festival.Visitor2"
+    }
+  ]
+
+    }
+}

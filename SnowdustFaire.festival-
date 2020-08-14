@@ -1,0 +1,38 @@
+{
+  "code": "staxel.festivals.SnowdustFaire",
+  "icon": "staxel/festivals/SnowdustFaireIcon.png",
+  "season": "Winter",
+  "start": 5,
+  "end": 10,
+  "weatherOverride": "staxel.weather.festival.SnowdustFaire",
+  "festivalTotem": "staxel.totem.festival.SnowdustShrine",
+  "totemReplacements": [
+    {
+      "totem": "staxel.totem.workplace.TownSquare",
+      "structure": "staxel.structure.village.festival.SnowdustFaireTownSquare"
+    },
+    {
+      "totem": "staxel.totem.workplace.FestivalSquare",
+      "structure": "staxel.structure.village.festival.SnowdustFaireShrine"
+    }
+  ],
+  "generalVillagerOverride": {
+    "villager": "",
+    "festivalBehaviour": [
+      {
+        "script": "staxel.script.ChillAtFestivalTotem",
+        "weight": 10.0
+      }
+    ]
+  },
+  "hosts": [
+    {
+      "name": "Caren",
+      "code": "staxel.village.character.festival.Caren"
+    },
+    {
+      "name": "Ami",
+      "code": "staxel.village.character.festival.Ami"
+    }
+  ]
+}

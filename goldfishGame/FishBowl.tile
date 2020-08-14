@@ -1,0 +1,31 @@
+{
+  "__inherits": "staxel/docks/dockBase.config",
+  "categories": [
+    "station",
+    "assembly",
+    "assemble",
+    "bench",
+    "brown",
+    "tool"
+  ],
+  "code": "mods.mb.SnowDustFaireExpansion.tileObject.crafting.FishBowl",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "descriptionImage": "mods/SnowDustFaireExpansion/GoldFishGame/FishIcon.png",
+  "dockDefinition": "mods.mb.SnowDustFaireExpansion.docks.FishBowl",
+  "prefetchTileState": true,
+  "pricing": {
+    "buyable": true,
+    "catalogueUnlockedFromStart": true,
+    "sellPrice": 600,
+    "value": 1000
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/SnowDustFaireExpansion/GoldFishGame/FishBowl.qb"
+}

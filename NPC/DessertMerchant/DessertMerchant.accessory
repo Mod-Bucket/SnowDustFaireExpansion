@@ -1,0 +1,13 @@
+{
+  "bodyType": [
+    "staxel.bodyType.HumanoidFemale"
+  ],
+  "code": "mods.mb.SnowDustFaireExpansion.fullBodyOutfits.villager.DessertMerchant",
+  "kind": "Shirt",
+  "model": "mods/SnowDustFaireExpansion/NPC/DessertMerchant/DessertMerchantOutfit.qb",
+  "palettes": [
+    "staxel.palette.grey"
+  ],
+  "searchable": false,
+  "subcategory": "tshirt"
+}

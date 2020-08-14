@@ -1,0 +1,13 @@
+{
+  "bodyType": [
+    "staxel.bodyType.HumanoidFemale"
+  ],
+  "code": "mods.mb.SnowDustFaireExpansion.fullBodyOutfits.villager.Visitor1",
+  "kind": "Shirt",
+  "model": "mods/SnowDustFaireExpansion/NPC/Visitor1/Visitor1Outfit.qb",
+  "palettes": [
+    "staxel.palette.grey"
+  ],
+  "searchable": false,
+  "subcategory": "tshirt"
+}

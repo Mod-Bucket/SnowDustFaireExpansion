@@ -1,0 +1,8 @@
+{
+  "code": "mods.mb.SnowDustFaireExpansion.personality.Visitor1",
+  "idleScript": "staxel.script.StandAroundIdle",
+  "primaryDialogue": "mods.mb.SnowDustFaireExpansion.dialogue.Visitor1",
+  "canOverrideBehaviour": true,
+  "canLeaveTown": true,
+  "canGiveQuests": false,
+}

@@ -1,0 +1,8 @@
+{
+  "code": "mods.mb.SnowDustFaireExpansion.character.festival.DessertMerchant",
+  "name": "Alice",
+  "personality": "mods.mb.SnowDustFaireExpansion.personality.DessertMerchant",
+  "initialDesign": "staxel.village.design.VillagerFemale",
+  "initialOutfit": "mods.mb.SnowDustFaireExpansion.outfit.festival.DessertMerchant",
+  "acceptsGift": false
+}

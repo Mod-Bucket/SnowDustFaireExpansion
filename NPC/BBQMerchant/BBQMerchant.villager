@@ -1,0 +1,8 @@
+{
+  "code": "mods.mb.SnowDustFaireExpansion.personality.BBQMerchant",
+  "idleScript": "staxel.script.StandAroundIdle",
+  "primaryDialogue": "mods.mb.SnowDustFaireExpansion.dialogue.BBQMerchant",
+  "canOverrideBehaviour": true,
+  "canLeaveTown": true,
+  "canGiveQuests": false,
+}

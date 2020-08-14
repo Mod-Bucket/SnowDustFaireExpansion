@@ -1,0 +1,18 @@
+{
+  "code": "mods.mb.SnowDustFaireExpansion.job.Visitor1",
+  "startingTime": 0,
+  "endingTime": 1440,
+  "primaryDialogue": "mods.mb.SnowDustFaireExpansion.dialogue.Visitor1",
+  "workOvernight": true,
+  "workPlace": "staxel.totem.workplace.TownSquare",
+  "weightedScripts": [
+    {
+      "script": "staxel.script.ChillAtFestivalTotem",
+      "weight": 5.0
+    },
+    {
+      "script": "staxel.script.FishScript",
+      "weight": 20.0
+    },
+	]
+}

@@ -1,0 +1,41 @@
+{
+  "code": "mods.mb.SnowDustFaireExpansion.particle.GoldfishGameWhiteBall",
+  "angularVelocity": 1.0,
+  "color": "FFFFFF",
+  "colorSpread": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "emitDuration": 0.9,
+  "emitVelocity": {
+    "x": 0.0,
+    "y": 1.0,
+    "z": 0.0
+  },
+  "emitVelocitySpread": {
+    "x": 0.1,
+    "y": 0.0,
+    "z": 0.1
+  },
+  "gravityFactor": {
+    "x": 0.0,
+    "y": -1.0,
+    "z": 0.0
+  },
+  "liveDuration": 1.0,
+  "particlesPerSecond": 1.0,
+  "position": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "positionSpread": {
+    "x": 0.2,
+    "y": 0.0,
+    "z": 0.2
+  },
+  "scale": 0.5,
+  "scaleSpread": 0.0,
+  "emissive": 0.005
+}

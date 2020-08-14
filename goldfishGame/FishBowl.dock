@@ -1,0 +1,76 @@
+{
+  "code": "mods.mb.SnowDustFaireExpansion.docks.FishBowl",
+  "craftingKeyword": "fish",
+  "approximateSites": true,
+  "nameTagOffset": {
+    "x": 0.0,
+    "y": 0.6,
+    "z": 0.0
+  },
+  "resultSite": "results",
+  "effectSite": "results",
+  "sites": [
+    {
+      "allowStacks": true,
+      "siteName": "ball",
+      "location": {
+        "x": 0.0,
+        "y": 0.625,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "compact": false,
+      "craftSite": true
+    },
+    {
+      "allowStacks": true,
+      "siteName": "results",
+      "disallowManualDocking": true,
+      "location": {
+        "x": 0.0,
+        "y": 0.625,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  ],
+  "removeReagentsOnCraftStart": true,
+  "processDrawables": {
+    "ball": {
+      "voxels": "mods/SnowDustFaireExpansion/goldfishGame/Ball.qb",
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  },
+  "validDockables": [
+    {
+      "category": "fishball",
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "effectTrigger": "staxel.effect.DockItem",
+      "placeSoundGroup": "staxel.sounds.place.Item.dock",
+      "sites": [
+        "ball"
+      ]
+    }
+  ]
+}

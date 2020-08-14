@@ -1,0 +1,21 @@
+{
+  "code": "mods.mb.SnowDustFaireExpansion.treasure.ShavedIceStall",
+  "entries": [
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "staxel.item.festival.Takoyaki"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "staxel.item.festival.ToffeeApple"
+        }
+      ]
+    }
+  ]
+}

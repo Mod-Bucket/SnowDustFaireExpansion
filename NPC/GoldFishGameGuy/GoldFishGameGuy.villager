@@ -1,0 +1,8 @@
+{
+  "code": "mods.mb.SnowDustFaireExpansion.personality.GoldFishGameGuy",
+  "idleScript": "staxel.script.StandAroundIdle",
+  "primaryDialogue": "mods.mb.SnowDustFaireExpansion.dialogue.GoldFishGameGuy",
+  "canOverrideBehaviour": true,
+  "canLeaveTown": true,
+  "canGiveQuests": false,
+}

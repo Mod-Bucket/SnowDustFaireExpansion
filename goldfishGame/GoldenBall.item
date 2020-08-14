@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "fish"
+  ],
+  "code": "mods.mb.SnowDustFaireExpansion.item.GoldenBall",
+  "icon": "mods/SnowDustFaireExpansion/goldfishGame/GoldenBall.qb",
+  "inHand": "mods/SnowDustFaireExpansion/goldfishGame/GoldenBall.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 30,
+    "value": 50
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "__inherits": "staxel/effect/base.config",
+  "code": "mods.mb.SnowDustFaireExpansion.GoldfishGameGoldenBall",
+  "particles": [
+    "mods.mb.SnowDustFaireExpansion.particle.GoldfishGameGoldenBall"
+  ],
+  "sounds": [
+    "staxel.sound.crafting.Carving.station"
+  ]
+}

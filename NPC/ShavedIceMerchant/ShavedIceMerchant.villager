@@ -1,0 +1,8 @@
+{
+  "code": "mods.mb.SnowDustFaireExpansion.personality.ShavedIceMerchant",
+  "idleScript": "staxel.script.StandAroundIdle",
+  "primaryDialogue": "mods.mb.SnowDustFaireExpansion.dialogue.ShavedIceMerchant",
+  "canOverrideBehaviour": true,
+  "canLeaveTown": true,
+  "canGiveQuests": false,
+}

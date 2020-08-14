@@ -1,0 +1,13 @@
+{
+  "bodyType": [
+    "staxel.bodyType.HumanoidFemale"
+  ],
+  "code": "mods.mb.SnowDustFaireExpansion.fullBodyOutfits.villager.BBQMerchant",
+  "kind": "Shirt",
+  "model": "mods/SnowDustFaireExpansion/NPC/BBQMerchant/BBQMerchantOutfit.qb",
+  "palettes": [
+    "staxel.palette.grey"
+  ],
+  "searchable": false,
+  "subcategory": "tshirt"
+}

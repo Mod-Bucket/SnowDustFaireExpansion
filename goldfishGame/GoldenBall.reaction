@@ -1,0 +1,39 @@
+{
+  "name": "Golden Ball",
+  "code": "mods.mb.SnowDustFaireExpansion.reaction.GoldBall",
+  "recipeStep": "fish",
+  "tools": [],
+  "docks": [
+    "mods.mb.SnowDustFaireExpansion.docks.FishBowl"
+  ],
+  "requirements": [],
+  "reagents": [
+    {
+      "code": "mods.mb.SnowDustFaireExpansion.item.Ball"
+    }
+  ],
+  "results": [
+    {
+      "code": "mods.mb.SnowDustFaireExpansion.item.GoldenBall",
+      "quantity": 1
+    }
+  ],
+  "moveResultsToSite": "results",
+  "processDrawable": "ball",
+  "craftAnimation": {
+    "type": "lerp"/*speed determined by duration*/,
+    "from": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    }/*relative to effects site*/,
+    "to": {
+      "x": 0.0,
+      "y": -0.22,
+      "z": 0.0
+    }
+  },
+  "effectTrigger": "mods.mb.SnowDustFaireExpansion.GoldfishGameWhiteBall",
+  "duration": 4,
+  "triggerDurationCraftManually": false,
+}
