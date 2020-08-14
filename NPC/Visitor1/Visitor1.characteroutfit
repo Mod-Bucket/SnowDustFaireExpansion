@@ -1,10 +1,10 @@
 {
-  "code": "mods.mb.SnowDustFaireExpansion.outfit.festival.Visitor1",
+  "code": "mods.mb.SnowDustFaireExpansion.outfit.Visitor1",
   "outfit": {
     "0": {
       "code": "",
       "kind": "staxel.item.Clothing",
-      "accessory": "mods.mb.SnowDustFaireExpansion.fullBodyOutfits.festival.Visitor1",
+      "accessory": "mods.mb.SnowDustFaireExpansion.fullBodyOutfits.Visitor1",
       "palette": ""
     },
     "1": {

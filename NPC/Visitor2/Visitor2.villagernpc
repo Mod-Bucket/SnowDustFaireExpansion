@@ -3,6 +3,6 @@
   "name": "Visitor2",
   "personality": "mods.mb.SnowDustFaireExpansion.personality.Visitor2",
   "initialDesign": "staxel.village.design.VillagerFemale",
-  "initialOutfit": "mods.mb.SnowDustFaireExpansion.outfit.festival.Visitor2",
+  "initialOutfit": "mods.mb.SnowDustFaireExpansion.outfit.Visitor2",
   "acceptsGift": false
 }

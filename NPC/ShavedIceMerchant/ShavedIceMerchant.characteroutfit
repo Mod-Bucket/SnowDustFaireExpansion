@@ -1,10 +1,10 @@
 {
-  "code": "mods.mb.SnowDustFaireExpansion.outfit.festival.ShavedIceMerchant",
+  "code": "mods.mb.SnowDustFaireExpansion.outfit.ShavedIceMerchant",
   "outfit": {
     "0": {
       "code": "",
       "kind": "staxel.item.Clothing",
-      "accessory": "mods.mb.SnowDustFaireExpansion.fullBodyOutfits.festival.ShavedIceMerchant",
+      "accessory": "mods.mb.SnowDustFaireExpansion.fullBodyOutfits.ShavedIceMerchant",
       "palette": ""
     },
     "1": {

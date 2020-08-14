@@ -4,7 +4,7 @@
   "endingTime": 1440,
   "primaryDialogue": "mods.mb.SnowDustFaireExpansion.dialogue.Visitor1",
   "workOvernight": true,
-  "workPlace": "staxel.totem.workplace.TownSquare",
+  "workPlace": "staxel.totem.festival.SnowdustShrine",
   "weightedScripts": [
     {
       "script": "staxel.script.ChillAtFestivalTotem",

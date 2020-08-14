@@ -3,6 +3,6 @@
   "name": "Alice",
   "personality": "mods.mb.SnowDustFaireExpansion.personality.BBQMerchant",
   "initialDesign": "staxel.village.design.VillagerFemale",
-  "initialOutfit": "mods.mb.SnowDustFaireExpansion.outfit.festival.BBQMerchant",
+  "initialOutfit": "mods.mb.SnowDustFaireExpansion.outfit.BBQMerchant",
   "acceptsGift": false
 }

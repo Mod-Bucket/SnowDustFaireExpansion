@@ -3,6 +3,6 @@
   "name": "Alice",
   "personality": "mods.mb.SnowDustFaireExpansion.personality.DessertMerchant",
   "initialDesign": "staxel.village.design.VillagerFemale",
-  "initialOutfit": "mods.mb.SnowDustFaireExpansion.outfit.festival.DessertMerchant",
+  "initialOutfit": "mods.mb.SnowDustFaireExpansion.outfit.DessertMerchant",
   "acceptsGift": false
 }

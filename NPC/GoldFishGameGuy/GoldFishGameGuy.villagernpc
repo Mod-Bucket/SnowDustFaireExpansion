@@ -3,6 +3,6 @@
   "name": "Alice",
   "personality": "mods.mb.SnowDustFaireExpansion.personality.GoldFishGameGuy",
   "initialDesign": "staxel.village.design.VillagerFemale",
-  "initialOutfit": "mods.mb.SnowDustFaireExpansion.outfit.festival.GoldFishGameGuy",
+  "initialOutfit": "mods.mb.SnowDustFaireExpansion.outfit.GoldFishGameGuy",
   "acceptsGift": false
 }

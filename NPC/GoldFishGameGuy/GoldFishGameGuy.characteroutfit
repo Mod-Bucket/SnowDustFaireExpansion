@@ -1,10 +1,10 @@
 {
-  "code": "mods.mb.SnowDustFaireExpansion.outfit.festival.GoldFishGameGuy",
+  "code": "mods.mb.SnowDustFaireExpansion.outfit.GoldFishGameGuy",
   "outfit": {
     "0": {
       "code": "",
       "kind": "staxel.item.Clothing",
-      "accessory": "mods.mb.SnowDustFaireExpansion.fullBodyOutfits.festival.GoldFishGameGuy",
+      "accessory": "mods.mb.SnowDustFaireExpansion.fullBodyOutfits.GoldFishGameGuy",
       "palette": ""
     },
     "1": {

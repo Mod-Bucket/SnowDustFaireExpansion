@@ -2,7 +2,7 @@
   "bodyType": [
     "staxel.bodyType.HumanoidFemale"
   ],
-  "code": "mods.mb.SnowDustFaireExpansion.fullBodyOutfits.villager.Visitor1",
+  "code": "mods.mb.SnowDustFaireExpansion.fullBodyOutfits.Visitor1",
   "kind": "Shirt",
   "model": "mods/SnowDustFaireExpansion/NPC/Visitor1/Visitor1Outfit.qb",
   "palettes": [
