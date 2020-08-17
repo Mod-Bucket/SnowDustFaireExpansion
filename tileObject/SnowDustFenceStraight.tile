@@ -1,0 +1,473 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "yn",
+    "xp",
+    "xn"
+  ],
+  "autoTileInfo": [
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 3,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceStraight"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 1,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 1,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceStraight"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 1,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceStraight"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 1,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 3,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceStraight"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 1,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 1,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 3,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 1,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 2,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 3,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 1,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 1,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "front",
+          "rotationToLookFor": 1,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 1,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "back",
+          "rotationToLookFor": 3,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "right",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceStraight"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "left",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceStraight"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "right",
+          "rotationToLookFor": 2,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceStraight"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "left",
+          "rotationToLookFor": 2,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceStraight"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "right",
+          "rotationToLookFor": 3,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "right",
+          "rotationToLookFor": 2,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "left",
+          "rotationToLookFor": 1,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "left",
+          "rotationToLookFor": 0,
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rotation": 0,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "right",
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceStraight",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceTSection",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCross"
+          ]
+        },
+        {
+          "direction": "left",
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceStraight",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceTSection",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCross"
+          ]
+        },
+        {
+          "direction": "front",
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceStraight",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceTSection",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCross"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "direction": "none",
+          "rotation": 2,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceTSection"
+        }
+      ]
+    },
+    {
+      "directionsToLookIn": [
+        {
+          "direction": "right",
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceStraight",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceTSection",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCross"
+          ]
+        },
+        {
+          "direction": "left",
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceStraight",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceTSection",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCross"
+          ]
+        },
+        {
+          "direction": "front",
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceStraight",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceTSection",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCross"
+          ]
+        },
+        {
+          "direction": "back",
+          "tilesToLookFor": [
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCorner",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceStraight",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceTSection",
+            "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCross"
+          ]
+        }
+      ],
+      "results": [
+        {
+          "direction": "none",
+          "rotation": 0,
+          "tileToPlace": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceCross"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "fence",
+    "misc",
+    "wood",
+    "wooden",
+    "pole",
+    "straight"
+  ],
+  "code": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceStraight",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "yn",
+    "xp",
+    "xn"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 6,
+    "value": 10
+  },
+  "randomizePosition": false,
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/SnowDustFaireExpansion/tileObject/SnowDustFenceStraight.qb"
+}

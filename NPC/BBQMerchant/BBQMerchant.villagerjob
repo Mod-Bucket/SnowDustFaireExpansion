@@ -1,0 +1,28 @@
+{
+  "code": "mods.mb.SnowDustFaireExpansion.job.BBQMerchant",
+  "startingTime": 0,
+  "endingTime": 1440,
+  "primaryDialogue": "mods.mb.SnowDustFaireExpansion.dialogue.BBQMerchant",
+  "workPlace": "staxel.totem.festival.SnowdustShrine",
+  "mainWorkplaceTool": "mods.mb.SnowDustFaireExpansion.tileObject.stall.BBQStall",
+  "workPlaceTools": ["mods.mb.SnowDustFaireExpansion.tileObject.stall.BBQStall"],
+  "workOvernight": true,
+  "weightedScripts": [
+    {
+      "script": "staxel.script.StandAroundIdleJob",
+      "weight": 25.0
+    },
+    {
+      "script": "staxel.script.LookAroundIdleJob",
+      "weight": 2.5
+    },
+    {
+      "script": "staxel.script.ReadBookStandingJobScript",
+      "weight": 5.0
+    },
+    {
+      "script": "staxel.script.ScratchHeadScript",
+      "weight": 5.0
+    }
+  ]
+}

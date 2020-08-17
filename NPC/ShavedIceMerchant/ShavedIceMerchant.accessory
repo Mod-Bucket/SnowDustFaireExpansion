@@ -2,7 +2,7 @@
   "bodyType": [
     "staxel.bodyType.HumanoidFemale"
   ],
-  "code": "mods.mb.SnowDustFaireExpansion.fullBodyOutfits.villager.ShavedIceMerchant",
+  "code": "mods.mb.SnowDustFaireExpansion.fullBodyOutfits.ShavedIceMerchant",
   "kind": "Shirt",
   "model": "mods/SnowDustFaireExpansion/NPC/ShavedIceMerchant/ShavedIceMerchantOutfit.qb",
   "palettes": [

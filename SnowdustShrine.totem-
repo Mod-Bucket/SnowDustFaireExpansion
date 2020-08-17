@@ -1,16 +1,4 @@
 {
-  "code": "staxel.totem.festival.SnowdustShrine",
-  "region": {
-    "x": 22,
-    "y": 5,
-    "z": 22
-  },
-  "centreOffset": {
-    "x": 0,
-    "y": 4,
-    "z": -23
-  },
-  "tiers": 1,
   "requiredObjects": {
     "tier0": [
       {
@@ -18,12 +6,16 @@
         "count": 1
       },
       {
-        "code": "staxel.tileObject.serverVillage.exterior.MarketStallBlue",
+        "code": "mods.mb.SnowDustFaireExpansion.tileObject.stall.BBQStall",
         "count": 1
       },
       {
-        "code": "staxel.tileObject.serverVillage.exterior.MarketStallPink",
-        "count": 2
+        "code": "mods.mb.SnowDustFaireExpansion.tileObject.stall.DessertStall",
+        "count": 1
+      },
+      {
+        "code": "mods.mb.SnowDustFaireExpansion.tileObject.stall.ShavedIceStall",
+        "count": 1
       }
     ]
   },
@@ -42,7 +34,7 @@
   "shopGoods": {
     "tier0": [
       {
-        "dock": "staxel.tileObject.serverVillage.exterior.MarketStallBlue",
+        "dock": "mods.mb.SnowDustFaireExpansion.tileObject.stall.BBQStall",
         "treasures": [
           {
             "code": "staxel.treasure.festival.SnowdustFaire",
@@ -51,11 +43,20 @@
         ]
       },
       {
-        "dock": "staxel.tileObject.serverVillage.exterior.MarketStallPink",
+        "dock": "mods.mb.SnowDustFaireExpansion.tileObject.stall.DessertStall",
         "treasures": [
           {
             "code": "staxel.treasure.festival.SnowdustFaire",
-            "count": 2
+            "count": 1
+          }
+        ]
+      },
+      {
+        "dock": "mods.mb.SnowDustFaireExpansion.tileObject.stall.ShavedIceStall",
+        "treasures": [
+          {
+            "code": "staxel.treasure.festival.SnowdustFaire",
+            "count": 1
           }
         ]
       }

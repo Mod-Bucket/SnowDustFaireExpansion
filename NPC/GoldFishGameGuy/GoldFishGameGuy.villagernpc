@@ -1,7 +1,8 @@
 {
   "code": "mods.mb.SnowDustFaireExpansion.character.festival.GoldFishGameGuy",
-  "name": "Alice",
+  "name": "GoldFishGameGuy",
   "personality": "mods.mb.SnowDustFaireExpansion.personality.GoldFishGameGuy",
+  "job": "mods.mb.SnowDustFaireExpansion.job.GoldFishGameGuy",
   "initialDesign": "staxel.village.design.VillagerFemale",
   "initialOutfit": "mods.mb.SnowDustFaireExpansion.outfit.GoldFishGameGuy",
   "acceptsGift": false

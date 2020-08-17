@@ -1,0 +1,62 @@
+{
+    "file": "staxel/festivals/SnowdustFaire.festival",
+    "priority": 2,
+    "fileCheck": true, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+  "totemReplacements": [
+    {
+      "totem": "staxel.totem.workplace.TownSquare",
+      "structure": "mods.mb.SnowDustFaireExpansion.structure.SnowdustFaireTownSquare"
+    },
+    {
+      "totem": "staxel.totem.workplace.FestivalSquare",
+      "structure": "mods.mb.SnowDustFaireExpansion.structure.SnowdustFaireShrine"
+    }
+  ],
+  "hosts": [
+    {
+      "name": "Caren",
+      "code": "staxel.village.character.festival.Caren"
+    },
+    {
+      "name": "Ami",
+      "code": "staxel.village.character.festival.Ami"
+    },
+    {
+      "name": "Visitor1",
+      "code": "mods.mb.SnowDustFaireExpansion.character.festival.Visitor1"
+    },
+    {
+      "name": "Visitor2",
+      "code": "mods.mb.SnowDustFaireExpansion.character.festival.Visitor2"
+    },
+    {
+      "name": "Visitor3",
+      "code": "mods.mb.SnowDustFaireExpansion.character.festival.Visitor3"
+    },
+    {
+      "name": "Visitor4",
+      "code": "mods.mb.SnowDustFaireExpansion.character.festival.Visitor4"
+    },
+    {
+      "name": "BBQMerchant",
+      "code": "mods.mb.SnowDustFaireExpansion.character.festival.BBQMerchant"
+    },
+    {
+      "name": "DessertMerchant",
+      "code": "mods.mb.SnowDustFaireExpansion.character.festival.DessertMerchant"
+    },
+    {
+      "name": "GoldFishGameGuy",
+      "code": "mods.mb.SnowDustFaireExpansion.character.festival.GoldFishGameGuy"
+    },
+    {
+      "name": "ShavedIceMerchant",
+      "code": "mods.mb.SnowDustFaireExpansion.character.festival.ShavedIceMerchant",
+      "independentSpawn": true
+    },
+  ]
+
+    }
+}

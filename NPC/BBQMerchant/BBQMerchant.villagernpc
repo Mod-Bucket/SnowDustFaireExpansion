@@ -1,7 +1,8 @@
 {
   "code": "mods.mb.SnowDustFaireExpansion.character.festival.BBQMerchant",
-  "name": "Alice",
+  "name": "BBQMerchant",
   "personality": "mods.mb.SnowDustFaireExpansion.personality.BBQMerchant",
+  "job": "mods.mb.SnowDustFaireExpansion.job.BBQMerchant",
   "initialDesign": "staxel.village.design.VillagerFemale",
   "initialOutfit": "mods.mb.SnowDustFaireExpansion.outfit.BBQMerchant",
   "acceptsGift": false

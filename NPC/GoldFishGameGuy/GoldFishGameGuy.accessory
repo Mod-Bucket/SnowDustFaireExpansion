@@ -2,7 +2,7 @@
   "bodyType": [
     "staxel.bodyType.HumanoidFemale"
   ],
-  "code": "mods.mb.SnowDustFaireExpansion.fullBodyOutfits.villager.GoldFishGameGuy",
+  "code": "mods.mb.SnowDustFaireExpansion.fullBodyOutfits.GoldFishGameGuy",
   "kind": "Shirt",
   "model": "mods/SnowDustFaireExpansion/NPC/GoldFishGameGuy/GoldFishGameGuyOutfit.qb",
   "palettes": [

@@ -1,0 +1,16 @@
+{
+    "file": "mods/SnowDustFaireExpansion/structure/SnowdustFaireShrine.structuretemplate",
+    "priority": 2,
+    "fileCheck": true, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+	  "mapping": {
+    "0000A8": {
+      "material": "mods.mb.SnowDustFaireExpansion.villagers.ShavedIceMerchant",
+      "requireEmpty": true,
+      "matches": false,
+      "rotation": 2
+    },
+	}
+ }
+}

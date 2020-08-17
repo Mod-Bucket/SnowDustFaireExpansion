@@ -1,0 +1,71 @@
+{
+    "file": "staxel/totems/festival/SnowdustShrine.totem",
+    "priority": 2,
+    "fileCheck": true, 
+    "mergeLists": false, //Causes the patch to override arrays/lists rather than merge them.
+    "patch" : {
+  "requiredObjects": {
+    "tier0": [
+      {
+        "code": "staxel.tileObject.festival.NekoShrine",
+        "count": 1
+      },
+      {
+        "code": "mods.mb.SnowDustFaireExpansion.tileObject.stall.BBQStall",
+        "count": 1
+      },
+      {
+        "code": "mods.mb.SnowDustFaireExpansion.tileObject.stall.DessertStall",
+        "count": 1
+      },
+      {
+        "code": "mods.mb.SnowDustFaireExpansion.tileObject.stall.ShavedIceStall",
+        "count": 1
+      }
+    ]
+  },
+  "requiredCategories": {
+    "tier0": [
+      {
+        "category": "counter",
+        "count": 1
+      },
+      {
+        "category": "well",
+        "count": 1
+      }
+    ]
+  },
+  "shopGoods": {
+    "tier0": [
+      {
+        "dock": "mods.mb.SnowDustFaireExpansion.tileObject.stall.BBQStall",
+        "treasures": [
+          {
+            "code": "mods.mb.SnowDustFaireExpansion.treasure.BBQStall",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "dock": "mods.mb.SnowDustFaireExpansion.tileObject.stall.DessertStall",
+        "treasures": [
+          {
+            "code": "mods.mb.SnowDustFaireExpansion.treasure.DessertStall",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "dock": "mods.mb.SnowDustFaireExpansion.tileObject.stall.ShavedIceStall",
+        "treasures": [
+          {
+            "code": "mods.mb.SnowDustFaireExpansion.treasure.ShavedIceStall",
+            "count": 1
+          }
+        ]
+      }
+    ]
+  }
+ }
+}

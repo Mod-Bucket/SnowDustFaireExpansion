@@ -1,0 +1,9 @@
+{
+  "code": "mods.mb.SnowDustFaireExpansion.character.festival.Visitor4",
+  "name": "Visitor4",
+  "personality": "mods.mb.SnowDustFaireExpansion.personality.Visitor4",
+  "job": "mods.mb.SnowDustFaireExpansion.job.Visitor4",
+  "initialDesign": "staxel.village.design.VillagerFemale",
+  "initialOutfit": "mods.mb.SnowDustFaireExpansion.outfit.Visitor4",
+  "acceptsGift": false
+}

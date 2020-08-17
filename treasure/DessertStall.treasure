@@ -5,7 +5,31 @@
       "weight": 1,
       "items": [
         {
-          "code": "staxel.item.festival.Takoyaki"
+          "code": "mods.mb.SnowDustFaireExpansion.item.Taiyaki"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "mods.mb.SnowDustFaireExpansion.item.Crepe"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "mods.mb.SnowDustFaireExpansion.item.CottonCandy"
+        }
+      ]
+    },
+    {
+      "weight": 1,
+      "items": [
+        {
+          "code": "mods.mb.SnowDustFaireExpansion.item.ChocoBanana"
         }
       ]
     },

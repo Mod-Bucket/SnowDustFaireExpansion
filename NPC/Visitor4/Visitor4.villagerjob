@@ -1,0 +1,19 @@
+{
+  "code": "mods.mb.SnowDustFaireExpansion.job.Visitor4",
+  "startingTime": 0,
+  "endingTime": 1440,
+  "primaryDialogue": "mods.mb.SnowDustFaireExpansion.dialogue.Visitor4",
+  "workOvernight": true,
+  "workPlace": "staxel.totem.festival.SnowdustShrine",
+  "jobItems": [
+    {
+      "code": "staxel.item.tool.Rod"
+    }
+  ],
+  "weightedScripts": [
+    {
+      "script": "staxel.script.ChillAtFestivalTotem",
+      "weight": 5.0
+    },
+	]
+}

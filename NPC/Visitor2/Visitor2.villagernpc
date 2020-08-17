@@ -2,6 +2,7 @@
   "code": "mods.mb.SnowDustFaireExpansion.character.festival.Visitor2",
   "name": "Visitor2",
   "personality": "mods.mb.SnowDustFaireExpansion.personality.Visitor2",
+  "job": "mods.mb.SnowDustFaireExpansion.job.Visitor2",
   "initialDesign": "staxel.village.design.VillagerFemale",
   "initialOutfit": "mods.mb.SnowDustFaireExpansion.outfit.Visitor2",
   "acceptsGift": false

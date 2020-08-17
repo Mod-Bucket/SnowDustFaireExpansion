@@ -1,0 +1,42 @@
+{
+  "__inherits": "staxel/tileObject/base.config",
+  "attachmentDirections": [
+    "xp",
+    "xn",
+    "yn",
+    "zp"
+  ],
+  "categories": [
+    "fence",
+    "misc",
+    "wood",
+    "wooden",
+    "pole",
+    "middle"
+  ],
+  "code": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceTSection",
+  "compound": {
+    "size": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    }
+  },
+  "placementDirections": [
+    "xp",
+    "xn",
+    "yn",
+    "zp"
+  ],
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 12,
+    "value": 20
+  },
+  "randomizePosition": false,
+  "representativeTile": "mods.mb.SnowDustFaireExpansion.tileObject.SnowDustFenceMiddle",
+  "searchable": false,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/SnowDustFaireExpansion/tileObject/SnowDustFenceTSection.qb"
+}

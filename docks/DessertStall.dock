@@ -1,0 +1,62 @@
+{
+  "code": "mods.mb.SnowDustFaireExpansion.docks.DessertStall",
+  "allowStacksForAllSites": true,
+  "sites": [
+    {
+      "siteName": "Middle",
+      "location": {
+        "x": 0.0,
+        "y": 1.05,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "LeftSpot",
+      "location": {
+        "x": 1.0,
+        "y": 1.05,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "siteName": "RightSpot",
+      "location": {
+        "x": -1.0,
+        "y": 1.05,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  ],
+  "validDockables": [
+    {
+      "category": "all",
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "placeSoundGroup": "staxel.sounds.place.Stone",
+      "effectTrigger": "staxel.effect.DockItem"
+    }
+  ]
+}

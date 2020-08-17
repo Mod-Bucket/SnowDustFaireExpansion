@@ -1,0 +1,30 @@
+{
+  "__inherits": "staxel/docks/dockBase.config",
+  "tileStateKind": "staxel.tileState.ShopCounter",
+  "prefetchTileState": true,
+  "dockDefinition": "mods.mb.SnowDustFaireExpansion.docks.BBQStall",
+  "categories": [
+	"modbucket",
+    "SnowDustFaireExpansion",
+    "stall",
+    "stand",
+    "blue"
+  ],
+  "code": "mods.mb.SnowDustFaireExpansion.tileObject.stall.BBQStall",
+  "compound": {
+    "size": {
+      "x": 3,
+      "y": 3,
+      "z": 3								
+    }
+  },
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 12,
+    "value": 80
+  },
+  "searchable": true,
+  "stepSoundGroup": "staxel.sounds.WoodFootSteps",
+  "voxels": "mods/SnowDustFaireExpansion/Stall/BBQStall.qb"
+}

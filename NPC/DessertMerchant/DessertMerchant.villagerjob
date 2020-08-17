@@ -1,0 +1,28 @@
+{
+  "code": "mods.mb.SnowDustFaireExpansion.job.DessertMerchant",
+  "startingTime": 0,
+  "endingTime": 1440,
+  "primaryDialogue": "mods.mb.SnowDustFaireExpansion.dialogue.DessertMerchant",
+  "workPlace": "staxel.totem.festival.SnowdustShrine",
+  "mainWorkplaceTool": "mods.mb.SnowDustFaireExpansion.tileObject.stall.DessertStall",
+  "workPlaceTools": ["mods.mb.SnowDustFaireExpansion.tileObject.stall.DessertStall"],
+  "workOvernight": true,
+  "weightedScripts": [
+    {
+      "script": "staxel.script.StandAroundIdleJob",
+      "weight": 25.0
+    },
+    {
+      "script": "staxel.script.LookAroundIdleJob",
+      "weight": 2.5
+    },
+    {
+      "script": "staxel.script.ReadBookStandingJobScript",
+      "weight": 5.0
+    },
+    {
+      "script": "staxel.script.ScratchHeadScript",
+      "weight": 5.0
+    }
+  ]
+}

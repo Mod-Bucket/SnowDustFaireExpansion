@@ -1,0 +1,43 @@
+{
+  "__inherits": "staxel/item/edible.config",
+  "categories": [
+    "cooking",
+    "candy",
+    "apple",
+    "food"
+  ],
+  "code": "mods.mb.SnowDustFaireExpansion.item.Karaage",
+  "eatTime": 1,
+  "icon": "mods/SnowDustFaireExpansion/item/BBQ/Karaage.qb",
+  "inHand": "mods/SnowDustFaireExpansion/item/BBQ/Karaage.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -1.57
+  },
+  "appliesStatus": {
+    "statuses" : [
+		"jumpy"
+	]
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "appearsInCatalogue": false,
+    "sellPrice": 224,
+    "value": 374
+  },
+  "searchable": true,
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

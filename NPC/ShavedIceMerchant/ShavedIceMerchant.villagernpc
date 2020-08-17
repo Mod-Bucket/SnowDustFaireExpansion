@@ -1,7 +1,8 @@
 {
   "code": "mods.mb.SnowDustFaireExpansion.character.festival.ShavedIceMerchant",
-  "name": "Alice",
+  "name": "ShavedIceMerchant",
   "personality": "mods.mb.SnowDustFaireExpansion.personality.ShavedIceMerchant",
+  "job": "mods.mb.SnowDustFaireExpansion.job.ShavedIceMerchant",
   "initialDesign": "staxel.village.design.VillagerFemale",
   "initialOutfit": "mods.mb.SnowDustFaireExpansion.outfit.ShavedIceMerchant",
   "acceptsGift": false

@@ -15,8 +15,9 @@
     "size": {
       "x": 3,
       "y": 3,
-      "z": 3
-    }
+      "z": 4								
+    },
+    "specification": "CCC EEE EEE CCC CCC EEE EEE CCC CCC EEE EEE CXC "
   },
   "pricing": {
     "catalogueUnlockedFromStart": false,
